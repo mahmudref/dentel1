@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Dr. abdulrahman",
+    "specialty": "Protez Uzmanı",
+    "experience": 8,
+    "image": "https://cdn.builder.io/api/v1/image/assets%2Fc72e7b3613664c21a811f76ec8a32952%2Fb9124c0b30aa4581ba53b5a5c314a400?format=webp&width=800"
+  },
+  {
+    "name": "Dr. Sarah Bennett",
+    "specialty": "Ortodontist",
+    "experience": 12,
+    "image": "/images/Doctor_placeholder.jpg"
+  },
+  {
+    "name": "Dr. Omar Khalid",
+    "specialty": "Endodontist",
+    "experience": 9,
+    "image": "/images/Doctor_placeholder.jpg"
+  },
+  {
+    "name": "Dr. Lina Farouk",
+    "specialty": "Pedodontist",
+    "experience": 7,
+    "image": "/images/Doctor_placeholder.jpg"
+  },
+  {
+    "name": "Dr. Elif Demir",
+    "specialty": "Periodontist",
+    "experience": 11,
+    "image": "/images/Doctor_placeholder.jpg"
+  },
+  {
+    "name": "Dr. Can Yılmaz",
+    "specialty": "Ağız, Diş ve Çene Cerrahisi",
+    "experience": 10,
+    "image": "/images/Doctor_placeholder.jpg"
+  }
+]

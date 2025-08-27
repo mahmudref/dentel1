@@ -1,0 +1,201 @@
+{
+  "siteName": "incitanesi",
+  "siteDescription": "Kişisel dokunuşla ileri diş bakımı",
+  "logo": "/images/logo.png",
+  "navigation": {
+    "links": [
+      { "name": "Ana Sayfa", "href": "/" },
+      { "name": "Hakkımızda", "href": "/about" },
+      { "name": "Hizmetler", "href": "/services" },
+      { "name": "Yorumlar", "href": "/testimonials" },
+      { "name": "İletişim", "href": "/contact" }
+    ],
+    "cta": {
+      "text": "Randevu Al",
+      "href": "/book-appointment"
+    }
+  },
+  "hero": {
+    "welcomeText": "incitanesi'ye Hoş Geldiniz",
+    "title": "İleri Diş Bakımı",
+    "subtitle": "Aileniz İçin",
+    "description": "Sıcak ve özenli bir ortamda son teknoloji diş hekimliği. Uzman diş hekimimiz en yüksek kalitede bakımı sunar.",
+    "image": "/images/main_bg_image.jpg",
+    "imageAlt": "incitanesi'de modern diş bakımı",
+    "cta": {
+      "primary": {
+        "text": "Randevu Al",
+        "link": "/book-appointment"
+      },
+      "secondary": {
+        "text": "Hizmetlerimiz",
+        "link": "/services"
+      }
+    }
+  },
+  "contact": {
+    "phone": "+919136654906",
+    "email": "info@dentux.com",
+    "address": "SONAL VIJAY PERMISSES-B1, Shop No. 4, B-1, Ground Floor, Marol Maroshi Rd, Andheri East, Mumbai, Maharashtra 400059",
+    "socialLinks": {
+      "facebook": "/",
+      "instagram": "/",
+      "twitter": "/"
+    },
+    "whatsapp": "+919136654906",
+    "googleMapsUrl": "https://www.google.com/maps/embed/v1/place?q=Dentux+super+smiles+dental+clinic+(Dr+Monika+ashar),+Apartments,+Marol+Maroshi+Road,+Vijay+Nagar,+MIDC,+Marol,+Andheri+East,+Mumbai,+Maharashtra,+India&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8",
+    "googleFormsUrl": "https://forms.gle/DZ3SYGaHovReDSJWA",
+    "section": {
+      "title": "Connect with Us",
+      "description": "Have questions? Our friendly team is here to help you achieve optimal dental health.",
+      "whatsappMessage": "Hello! I'd like to schedule an appointment at incitanesi.",
+      "whatsappButtonText": "Message Us",
+      "bookAppointmentText": "Schedule Visit"
+    },
+    "hours": "10:00 AM - 1:30 PM & 5:00 PM - 9:00 PM (Closed on Sunday)"
+  },
+  "theme": {
+    "name": "modern",
+    "colorScheme": "teal",
+    "fonts": {
+      "heading": "Playfair Display",
+      "body": "Inter"
+    },
+    "colors": {
+      "primary": {
+        "50": "#f0fdfa",
+        "500": "#14b8a6",
+        "700": "#0f766e"
+      },
+      "secondary": {
+        "50": "#f8fafc",
+        "500": "#64748b",
+        "700": "#334155"
+      }
+    }
+  },
+  "services": {
+    "title": "Our Services",
+    "description": "Comprehensive dental care using the latest technology and techniques",
+    "items": [
+      {
+        "id": "general-dentistry",
+        "title": "General Dentistry",
+        "description": "Complete family dental care with a focus on prevention",
+        "icon": "tooth",
+        "features": [
+          "Dental Check-ups",
+          "Professional Cleaning",
+          "Cavity Treatment",
+          "Preventive Care"
+        ],
+        "image": "/images/general_dentistry.jpg"
+      },
+      {
+        "id": "cosmetic-dentistry",
+        "title": "Cosmetic Dentistry",
+        "description": "Advanced treatments to enhance your smile",
+        "icon": "sparkles",
+        "features": [
+          "Teeth Whitening",
+          "Porcelain Veneers",
+          "Dental Crowns",
+          "Smile Design"
+        ],
+        "image": "/images/cosmetic_dentistry.jpg"
+      },
+      {
+        "id": "orthodontics",
+        "title": "Orthodontics",
+        "description": "Modern solutions for teeth alignment",
+        "icon": "adjustments",
+        "features": [
+          "Clear Aligners",
+          "Traditional Braces",
+          "Invisalign",
+          "Retainers"
+        ],
+        "image": "/images/orthodontics.webp"
+      }
+    ],
+    "icons": {
+      "tooth": {
+        "path": "M4.5 12.5l3-3m0 0l3 3m-3-3v7m6-7l3-3m0 0l3 3m-3-3v7"
+      },
+      "sparkles": {
+        "path": "M5 3v4M3 5h4M6 17v4m-2-2h4m5-16l2.286 6.857L21 12l-5.714 2.143L13 21l-2.286-6.857L5 12l5.714-2.143L13 3z"
+      },
+      "adjustments": {
+        "path": "M12 6V4m0 2a2 2 0 100 4m0-4a2 2 0 110 4m-6 8a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4m6 6v10m6-2a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4"
+      }
+    }
+  },
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "Shriya",
+      "rating": 5,
+      "comment": "I had gone to Dr. Monika Ashar for a root canal treatment. She is very gentle and calm in her approach, has a very patient and approachable attitude, at the same time very technically sound and explained the procedure well. She is one of the few doctors who checks up on you after the treatment is done, Highly recommend her for any dental treatment.",
+      "image": "/images/Shriya.png"
+    },
+    {
+      "id": 2,
+      "name": "Daisy",
+      "rating": 5,
+      "comment": "Dr. Monika is a well experienced dentist. Treatment was very good. She makes the patient feel very comfortable.",
+      "image": "/images/daisy.png"
+    },
+    {
+      "id": 3,
+      "name": "Harrison",
+      "rating": 5,
+      "comment": "Dr. Monika is excellent in her work. Also very supportive in terms of booking schedules and has a lot of patience towards her patients! Always recommended for the best results :))",
+      "image": "/images/Harrison.png"
+    },
+    {
+      "id": 4,
+      "name": "Sarah",
+      "rating": 5,
+      "comment": "I had a fantastic experience with Dr. Monika. Dr. Monika's expertise and gentle approach made me feel at ease throughout my treatment. I highly recommend her for top-notch dental care!",
+      "image": "/images/Sarah.png"
+    }
+  ],
+  "about": {
+    "title": "Meet Our Doctor",
+    "description": "She is committed to providing you with the highest quality care in a comfortable environment.",
+    "clinicOverview": {
+      "title": "Modern Facilities",
+      "description": "Experience dental care in our state-of-the-art facility equipped with the latest technology for your comfort and the best possible treatment outcomes.",
+      "image": "/images/dental_interior.jpg",
+      "imageAlt": "Modern dental clinic interior"
+    },
+    "values": [
+      {
+        "title": "Patient-Centric Care",
+        "description": "Your comfort and satisfaction are our top priorities."
+      },
+      {
+        "title": "Latest Technology",
+        "description": "We utilize advanced dental technology for precise and comfortable treatments."
+      },
+      {
+        "title": "Gentle Approach",
+        "description": "Our gentle and caring approach ensures a stress-free dental experience."
+      }
+    ]
+  },
+  "team": [
+    {
+      "id": 1,
+      "name": "Dr. Monika Ashar",
+      "role": "Head Dentist",
+      "specialization": "Cosmetic Dentistry",
+      "bio": "Dr. Monika has over 15 years of experience in cosmetic dentistry and is committed to providing the highest quality dental care.",
+      "image": "/images/Doctor_placeholder.jpg"
+    }
+  ],
+  "bookAppointment": {
+    "title": "Book Your Appointment",
+    "description": "Schedule your visit with our dental experts. We'll get back to you within 24 hours to confirm your appointment."
+  }
+}
